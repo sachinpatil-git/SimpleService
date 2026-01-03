@@ -35,7 +35,6 @@ System.out.println("UserId : " +user.getUserId() +"  Username : " +user.getUserN
 	public String test() {
   return "!!!!! Hello World !!!!!";
 		}
-
-	}
+		
 
 }
