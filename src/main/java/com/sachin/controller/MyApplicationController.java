@@ -33,7 +33,7 @@ System.out.println("UserId : " +user.getUserId() +"  Username : " +user.getUserN
 
 	@RequestMapping(value = "/test")
 	public String test() {
-  return "!!!!! Hello World !!!!!":
+  return "!!!!! Hello World !!!!!";
 		}
 
 	}
